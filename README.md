@@ -4,7 +4,7 @@ A Economic Informatics graduate, eager to learn new things and accumulate experi
 ---
 >🔭 I’m currently working on: My first personal project: 
 >- Password Generator https://github.com/teodorofmihaela/PasswordProject
->-  My personal website
+>-  My personal website https://github.com/teodorofmihaela/Personal-Project
 >- My website for Bachelor Degree
 >
 >🌱 I’m currently learning more about web developping area because I want to become a better Full-Stack Web Developer.
