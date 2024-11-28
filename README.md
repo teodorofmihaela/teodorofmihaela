@@ -23,9 +23,10 @@ Full Stack Java Developer with 2+ years experience in creating dynamic applicati
 </a>
 -->
 
-<a href="https://github.com/teodorofmihaela">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teodorofmihaela&layout=compact)/>
-</a>
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teodorofmihaela&layout=compact"/>
+</div>
+
 
 <!--
 **teodorofmihaela/teodorofmihaela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
