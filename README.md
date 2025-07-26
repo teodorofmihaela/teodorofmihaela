@@ -1,13 +1,13 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Teodorof Mihaela
-Full Stack Java Developer with 2+ years experience in creating dynamic applications that prioritize both functionality and design.
+ Results-driven Java Developer with 3+ years of experience delivering full stack enterprise applications in the banking industry. Known for translating complex business needs into robust backend solutions and intuitive user interfaces. Skilled in optimizing workflows, taking a hands-on approach to both backend and UI layers and contributing to cross-functional Agile teams.
 
 ---
 >🔭 My past projects and the ones I’m currently working on: 
 >- Password Generator https://github.com/teodorofmihaela/PasswordProject
 >-  My personal website https://github.com/teodorofmihaela/Personal-Project
->- Online SweetShop - Web application for Bachelor Degree
+>- Online SweetShop - Web application for My Bachelor Degree
 >
->🌱 I’m currently learning more about web developping using Java and React as my main focus.
+>🌱 I’m currently sharpening my backend expertise with Spring Boot, microservices, TDD, and Docker while also building dynamic frontends in React. I’m integrating AI capabilities via GPT APIs to create smarter developer workflows and intuitive UI experiences.
 >
 >📫 How to reach me: mihaela.teodorof3@gmail.com
 
